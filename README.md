@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # k8s-fullstack-deployment
-=======
+
 <div align="center">
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
